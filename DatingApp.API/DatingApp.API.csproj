@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>797khkhkiyiy</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="bin\**"/>
